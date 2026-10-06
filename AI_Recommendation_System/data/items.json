@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Python Programming",
+        "category": "Programming",
+        "description": "Learn Python programming from beginner to intermediate level.",
+        "tags": [
+            "Python",
+            "Programming",
+            "Software Development"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Artificial Intelligence",
+        "category": "AI",
+        "description": "Learn the fundamentals of Artificial Intelligence and intelligent systems.",
+        "tags": [
+            "AI",
+            "Python",
+            "Machine Learning"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Machine Learning",
+        "category": "AI",
+        "description": "Explore machine learning algorithms and data-driven prediction.",
+        "tags": [
+            "Machine Learning",
+            "AI",
+            "Data Science",
+            "Python"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Cybersecurity Fundamentals",
+        "category": "Cybersecurity",
+        "description": "Learn cybersecurity fundamentals, threats, networks and security concepts.",
+        "tags": [
+            "Cybersecurity",
+            "Networking",
+            "Linux"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Web Development",
+        "category": "Development",
+        "description": "Learn modern web development concepts and technologies.",
+        "tags": [
+            "Web Development",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Django Development",
+        "category": "Development",
+        "description": "Build web applications using Python and Django.",
+        "tags": [
+            "Django",
+            "Python",
+            "Web Development"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Data Science",
+        "category": "Data",
+        "description": "Learn data analysis, visualization and data science concepts.",
+        "tags": [
+            "Data Science",
+            "Python",
+            "Machine Learning"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Computer Networking",
+        "category": "Networking",
+        "description": "Understand computer networks, protocols and network communication.",
+        "tags": [
+            "Networking",
+            "Linux",
+            "Cybersecurity"
+        ]
+    }
+]
